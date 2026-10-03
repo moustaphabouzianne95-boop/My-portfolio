@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo
+.env*
+!.env.example
+app.config.ts
+public/manus-routes.json
+.DS_Store
