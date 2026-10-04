@@ -120,6 +120,19 @@ export const projects: PortfolioProject[] = [
     demo: "https://moustaphabouzianne95-boop.github.io/langchain-website/",
     standalone: "https://moustaphabouzianne95-boop.github.io/langchain-website/langchain.html",
   },
+  {
+    name: "PyTorch Community",
+    description: "An independent, interactive introduction to PyTorch that presents the framework's capabilities and use cases, with beginner-friendly examples and an installation guide.",
+    problem: "Beginners can face information overload across many sources and have difficulty finding installation instructions for their operating system and hardware or choosing tools to start machine-learning projects.",
+    solution: "A single lightweight site brings together an environment-aware installation guide, copyable commands and code examples, and direct links to official documentation and specialist libraries.",
+    context: "Independent educational project, not officially affiliated with the PyTorch Foundation. Code examples are presented for reference; machine-learning models do not run in the browser.",
+    result: "Provides responsive mobile and desktop layouts, installation guidance by operating system and hardware platform, and examples introducing tensors, neural networks, and automatic differentiation.",
+    technologies: ["HTML5", "CSS3", "JavaScript", "SVG", "Python", "PyTorch", "GitHub Pages"],
+    features: ["Interactive OS and hardware installation guide", "Copyable setup commands and examples", "Tensor, neural network, and autograd examples", "Computer vision, NLP, and reinforcement learning use cases", "Lightweight static site with no backend"],
+    github: "https://github.com/moustaphabouzianne95-boop/pytorch-community",
+    demo: "https://moustaphabouzianne95-boop.github.io/pytorch-community/",
+    standalone: "https://github.com/moustaphabouzianne95-boop/pytorch-community/blob/main/index.html",
+  },
 ];
 
 export const principles = [
